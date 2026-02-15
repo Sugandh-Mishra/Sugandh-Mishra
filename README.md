@@ -72,19 +72,13 @@ I build intelligent systems, AI agents, and scalable architectures focused on so
 
 ---
 
-## 📈 GitHub Stats
-
-```text
-(Add GitHub stats widgets here)
-```
-
 ---
 
 ## 📫 Connect With Me
 
 * LinkedIn: https://www.linkedin.com/in/sugandh-mishra/
-* Email: [happymishra8055@gmail.com](mailto:happymishra8055@gmail.com)
-* Portfolio: (Add link)
+* Email: sugandhmishra10@gmail.com
+
 
 ---
 
