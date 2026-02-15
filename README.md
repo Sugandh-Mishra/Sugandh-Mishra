@@ -1,6 +1,6 @@
 # Hi 👋 I'm Sugandh Mishra
 
-**AI Engineer | Systems Engineer | Distributed Computing | Automation | Research-driven Engineering**
+**AI Engineer| Research-driven Engineering**
 
 I build intelligent systems, AI agents, and scalable architectures focused on solving real-world engineering problems. My work lies at the intersection of **AI, distributed systems, automation, and system design**.
 
@@ -46,26 +46,6 @@ I build intelligent systems, AI agents, and scalable architectures focused on so
 * Domain: AI Infrastructure
 * Tech: RAG, Vector Search, LLMs
 
-### 🔹 Distributed Computing Framework (DCF)
-
-> Framework enabling distributed computing and AI capability sharing across devices
-
-* Domain: Distributed Systems
-* Tech: Networking, System Design, Protocols
-
-### 🔹 PUBG AI Automation
-
-> AI-driven automation framework for device performance testing
-
-* Domain: Automation Engineering
-* Tech: ML, Computer Vision, Automation
-
-### 🔹 BikeTribe (MERN Platform)
-
-> Social media platform for bike travelers
-
-* Domain: Full-stack Systems
-* Tech: MongoDB, Express, React, Node.js
 
 ---
 
@@ -102,7 +82,7 @@ I build intelligent systems, AI agents, and scalable architectures focused on so
 
 ## 📫 Connect With Me
 
-* LinkedIn: (Add link)
+* LinkedIn: https://www.linkedin.com/in/sugandh-mishra/
 * Email: [happymishra8055@gmail.com](mailto:happymishra8055@gmail.com)
 * Portfolio: (Add link)
 
