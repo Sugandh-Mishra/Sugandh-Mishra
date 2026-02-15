@@ -1,32 +1,42 @@
-# Hi 👋 I'm Sugandh Mishra
+# Hi 👋 I'm **Sugandh Mishra**
 
-**AI Engineer| Research-driven Engineering**
+### **AI Engineer | Systems Architect | Research-Driven Engineer | Distributed Intelligence Builder**
 
-I build intelligent systems, AI agents, and scalable architectures focused on solving real-world engineering problems. My work lies at the intersection of **AI, distributed systems, automation, and system design**.
+📧 **Email:** [sugandhmishra10@gmail.com](mailto:sugandhmishra10@gmail.com)
+🔗 **LinkedIn:** [https://www.linkedin.com/in/sugandh-mishra/](https://www.linkedin.com/in/sugandh-mishra/)
+
+---
+
+I design and build **intelligent systems, AI agents, and scalable architectures** that solve real-world engineering problems.
+My work sits at the intersection of **Artificial Intelligence, Distributed Systems, Automation, and System Design**, with a strong focus on **building production-grade, research-inspired engineering solutions**.
+
+> I don’t just build models — I build **systems around intelligence**.
 
 ---
 
 ## 🚀 What I Build
 
-* AI Agents for automation and bug detection
-* RAG-based intelligent systems
-* Distributed AI frameworks
-* Scalable backend systems
-* AI-powered automation pipelines
-* System-level engineering tools
+* 🤖 Autonomous AI agents for code intelligence, debugging, and automation
+* 🧠 Retrieval-Augmented Generation (RAG) based intelligent platforms
+* 🌐 Distributed AI frameworks for multi-device intelligence
+* 🏗 Scalable backend & AI infrastructure systems
+* ⚙️ AI-powered automation pipelines
+* 🧩 System-level engineering tools
+* 🔬 Research-inspired applied engineering solutions
 
 ---
 
 ## 🧠 Engineering Domains
 
-* AI Agents & Autonomous Systems
-* Retrieval-Augmented Generation (RAG)
-* Distributed AI Systems
-* AI Infrastructure
-* Automation Engineering
-* System Design
-* Performance Engineering
-* Intelligent Tooling
+* **AI Agents & Autonomous Systems**
+* **Retrieval-Augmented Generation (RAG)**
+* **Distributed AI Systems**
+* **AI Infrastructure & Platforms**
+* **Automation Engineering**
+* **System Architecture & Design**
+* **Performance Engineering**
+* **Intelligent Tooling Systems**
+* **Edge & Multi-Device Intelligence**
 
 ---
 
@@ -34,30 +44,37 @@ I build intelligent systems, AI agents, and scalable architectures focused on so
 
 ### 🔹 AI Bug Finder Agent
 
-> Intelligent agent that analyzes codebases, detects bugs, and suggests fixes using LLMs + RAG
+**Autonomous AI agent for intelligent code analysis and bug resolution**
 
-* Domain: AI Systems, Automation
-* Tech: LLMs, Embeddings, Vector DB, Python
+> An intelligent system that analyzes large codebases, detects bugs, identifies root causes, and suggests fixes using **LLMs + RAG + embeddings + vector search**.
 
-### 🔹 RAG-based Code Intelligence System
+**Domain:** AI Systems, Automation Engineering
+**Tech:** LLMs, Embeddings, Vector Databases, Python, RAG Pipelines
 
-> Knowledge-driven system for understanding, searching, and generating code from large repositories
+---
 
-* Domain: AI Infrastructure
-* Tech: RAG, Vector Search, LLMs
+### 🔹 RAG-Based Code Intelligence System
 
+**Knowledge-driven AI platform for large-scale code understanding**
+
+> A scalable intelligence system that enables semantic search, reasoning, and code generation across massive repositories using **retrieval-augmented architectures**.
+
+**Domain:** AI Infrastructure, Knowledge Systems
+**Tech:** RAG, Vector Search, LLMs, Semantic Indexing
 
 ---
 
 ## 🧬 Research & Innovation Focus
 
-* Distributed Intelligence
-* Neural Cache Architectures
+* Distributed Intelligence Architectures
+* Neural Cache & Multi-Layer Memory Systems
 * AI Infrastructure Optimization
-* Edge AI Systems
-* Multi-device AI collaboration
-* Intelligent Automation
+* Edge AI & On-Device Intelligence
+* Multi-Device AI Collaboration
+* Intelligent Automation Systems
 * Scalable AI Architectures
+* AI Systems Engineering
+* Applied Research Engineering
 
 ---
 
@@ -67,19 +84,10 @@ I build intelligent systems, AI agents, and scalable architectures focused on so
 **AI/ML:** PyTorch, TensorFlow, OpenCV
 **Backend:** Node.js, FastAPI
 **Systems:** Linux, Docker
-**Databases:** MongoDB, Vector DBs
+**Databases:** MongoDB, Vector Databases
 **Cloud:** AWS
 
 ---
 
----
-
-## 📫 Connect With Me
-
-* LinkedIn: https://www.linkedin.com/in/sugandh-mishra/
-* Email: sugandhmishra10@gmail.com
-
-
----
-
-> "Engineering intelligent systems that scale beyond single machines."
+> **“Engineering intelligence is not about models — it’s about building systems where intelligence scales.”**
+> — Sugan
