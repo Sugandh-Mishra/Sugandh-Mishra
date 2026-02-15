@@ -90,4 +90,4 @@ My work sits at the intersection of **Artificial Intelligence, Distributed Syste
 ---
 
 > **“Engineering intelligence is not about models — it’s about building systems where intelligence scales.”**
-> — Sugan
+> — Sugandh
